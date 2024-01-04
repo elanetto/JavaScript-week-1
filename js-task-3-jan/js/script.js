@@ -1,5 +1,4 @@
 
-
 // 1. Modify Heading Styles
 // select the <h1> element and change its text to "Welcome to JavaScript Class"
 
@@ -47,6 +46,3 @@ myBtn.addEventListener("click", function() {
 
     list.innerHTML += `<li>New Item ${someRandomNumber}</li>`
 });
-
-
-
